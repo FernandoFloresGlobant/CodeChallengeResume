@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  GLBResumeCodeChallenge
+
+  Created by Fernando on 6/25/19.
+  Copyright © 2019 Globant. All rights reserved.
+*/
+"My Resume" = "My Resume";
+
+"Personal Info" = "Personal Info";
+"Laboral History" = "Laboral History";
+"School History" = "School History";
+
+"Personal Info:" = "Personal Info:";
+"Name:" = "Name:";
+"Address:" = "Address:";
+"Mail:" = "Mail:";
+"Phone:" = "Phone:";
+
+"Laboral History" = "Laboral History";
+"Academic History" = "Academic History";
+
+"Error Title" = "Error";
+"Error Message" = "Something was wrong, try later";
+"Ok" = "Ok";
+
